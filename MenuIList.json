@@ -1,0 +1,381 @@
+ 
+[
+  {
+    "name": "Domino's",
+    "items": [
+      {
+        "name": "Nachos with Cheese Dip",
+        "price": 100,
+        "desc": "Crispy tortilla chips with melted cheese dip.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Stuffed Jalapeños",
+        "price": 99,
+        "desc": "Jalapeño peppers stuffed with cream cheese.",
+        "menuimage": "",
+        "qty": 6
+      },
+      {
+        "name": "Garlic Parmesan Fries",
+        "price": 299,
+        "desc": "Crispy fries tossed in garlic and Parmesan cheese.",
+        "menuimage": "",
+        "qty": 1
+      }
+    ]
+    
+  },
+
+  {
+    "name": "Saravana Bavan",
+    "items": [
+      {
+        "name": "Classic Omelette",
+        "price": 79,
+        "desc": "Three-egg omelette with your choice of fillings.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Pancakes with Maple Syrup",
+        "price": 199,
+        "desc": "Fluffy pancakes served with sweet maple syrup.",
+        "menuimage": "",
+        "qty": 2
+      },
+      {
+        "name": "Avocado Toast",
+        "price": 399,
+        "desc": "Sliced avocado on toasted multigrain bread.",
+        "menuimage": "",
+        "qty": 1
+      }
+    ]
+  },
+
+  {
+    "name": "RHR",
+    "items": [
+      {
+        "name": "Grilled Salmon",
+        "price": 899,
+        "desc": "Fresh salmon fillet grilled to perfection.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Beef Tenderloin Steak",
+        "price": 499,
+        "desc": "Juicy beef tenderloin steak cooked to your liking.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Mushroom Risotto",
+        "price": 199,
+        "desc": "Creamy risotto with assorted mushrooms.",
+        "menuimage": "",
+        "qty": 1
+      }
+    ]
+  },
+
+  {
+    "name": "KFC",
+    "items": [
+      {
+        "name": "Nachos with Cheese Dip",
+        "price": 99,
+        "desc": "Crispy tortilla chips with melted cheese dip.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Stuffed Jalapeños",
+        "price": 199,
+        "desc": "Jalapeño peppers stuffed with cream cheese.",
+        "menuimage": "",
+        "qty": 6
+      },
+      {
+        "name": "Garlic Parmesan Fries",
+        "price": 299,
+        "desc": "Crispy fries tossed in garlic and Parmesan cheese.",
+        "menuimage": "",
+        "qty": 1
+      }
+    ]
+  },
+
+  {
+    "name": "A2B",
+    "items": [
+      {
+        "name": "Classic Omelette",
+        "price": 79,
+        "desc": "Three-egg omelette with your choice of fillings.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Pancakes with Maple Syrup",
+        "price": 199,
+        "desc": "Fluffy pancakes served with sweet maple syrup.",
+        "menuimage": "",
+        "qty": 2
+      },
+      {
+        "name": "Avocado Toast",
+        "price": 299,
+        "desc": "Sliced avocado on toasted multigrain bread.",
+        "menuimage": "",
+        "qty": 1
+      }
+    ]
+  },
+
+  {
+    "name": "BurgerKing",
+    "items": [
+      {
+        "name": "Classic Omelette",
+        "price": 99,
+        "desc": "Three-egg omelette with your choice of fillings.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Pancakes with Maple Syrup",
+        "price": 299,
+        "desc": "Fluffy pancakes served with sweet maple syrup.",
+        "menuimage": "",
+        "qty": 2
+      },
+      {
+        "name": "Avocado Toast",
+        "price": 159,
+        "desc": "Sliced avocado on toasted multigrain bread.",
+        "menuimage": "",
+        "qty": 1
+      }
+    ]
+  },
+  
+  {
+    "name": "BabaKaDhaba",
+    "items": [
+      {
+        "name": "Chicken Caesar Salad",
+        "price": 299,
+        "desc": "Grilled chicken, crisp romaine lettuce, and Caesar dressing.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Margherita Pizza",
+        "price": 199,
+        "desc": "Classic pizza with tomato, mozzarella, and fresh basil.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Vegetable Wrap",
+        "price": 199,
+        "desc": "Assorted vegetables wrapped in a whole wheat tortilla.",
+        "menuimage": "",
+        "qty": 1
+      }
+    ]
+  },
+
+  {
+    "name": "Arya Bavan",
+    "items": [
+      {
+        "name": "Chicken Caesar Salad",
+        "price": 299,
+        "desc": "Grilled chicken, crisp romaine lettuce, and Caesar dressing.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Margherita Pizza",
+        "price": 199,
+        "desc": "Classic pizza with tomato, mozzarella, and fresh basil.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Vegetable Wrap",
+        "price": 399,
+        "desc": "Assorted vegetables wrapped in a whole wheat tortilla.",
+        "menuimage": "",
+        "qty": 1
+      }
+    ]
+  },
+
+  {
+    "name": "RR Briyani",
+    "items": [
+      {
+        "name": "Chicken Briyani",
+        "price": 200.50,
+        "desc": "Assorted chicken in warm briyani fondue.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Mutton Briyani",
+        "price": 250.00,
+        "desc": "Classic mutton with layers of briyani rice.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Red Velvet Cake",
+        "price": 99,
+        "desc": "Moist red velvet cake with cream cheese frosting.",
+        "menuimage": "",
+        "qty": 1
+      }
+    ]
+  },
+
+  {
+    "name": "Amman Mess",
+    "items": [
+      {
+        "name": "Grilled Salmon",
+        "price": 899,
+        "desc": "Fresh salmon fillet grilled to perfection.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Beef Tenderloin Steak",
+        "price": 499,
+        "desc": "Juicy beef tenderloin steak cooked to your liking.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Mushroom Risotto",
+        "price": 399,
+        "desc": "Creamy risotto with assorted mushrooms.",
+        "menuimage": "",
+        "qty": 1
+      }
+    ]
+  },
+
+  {
+    "name": "Fruit Bae",
+    "items": [
+      {
+        "name": "Chocolate Fondue",
+        "price": 199,
+        "desc": "Assorted fruits dipped in warm chocolate fondue.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Tiramisu",
+        "price": 299,
+        "desc": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Red Velvet Cake",
+        "price": 99,
+        "desc": "Moist red velvet cake with cream cheese frosting.",
+        "menuimage": "",
+        "qty": 1
+      }
+    ]
+  },
+
+  {
+    "name": "Ibacco",
+    "items": [
+      {
+        "name": "Chocolate Fondue",
+        "price": 199,
+        "desc": "Assorted fruits dipped in warm chocolate fondue.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Tiramisu",
+        "price": 299,
+        "desc": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Red Velvet Cake",
+        "price": 99,
+        "desc": "Moist red velvet cake with cream cheese frosting.",
+        "menuimage": "",
+        "qty": 1
+      }
+    ]
+  },
+
+  {
+    "name": "Liquids",
+    "items": [
+      {
+        "name": "Mango Smoothie",
+        "price": 199,
+        "desc": "Refreshing smoothie made with fresh mangoes.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Iced Caramel Macchiato",
+        "price": 99,
+        "desc": "Espresso with milk and caramel over ice.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Green Tea Lemonade",
+        "price": 50,
+        "desc": "Iced green tea with a splash of lemonade.",
+        "menuimage": "",
+        "qty": 1
+      }
+    ]
+  },
+
+  {
+    "name": "Subway",
+    "items": [
+      {
+        "name": "Mango Smoothie",
+        "price": 200,
+        "desc": "Refreshing smoothie made with fresh mangoes.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Iced Caramel Macchiato",
+        "price": 100,
+        "desc": "Espresso with milk and caramel over ice.",
+        "menuimage": "",
+        "qty": 1
+      },
+      {
+        "name": "Green Tea Lemonade",
+        "price": 59,
+        "desc": "Iced green tea with a splash of lemonade.",
+        "menuimage": "",
+        "qty": 1
+      }
+    ]
+  }
+]

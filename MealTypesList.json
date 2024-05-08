@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Breakfast",
+        "content": "Start your day with exclusive breakfast options",
+        "image": "Assets/breakfast(1).avif",
+        "mealtype_id": 1
+    },
+    {
+        "name": "Lunch",
+        "content": "Enjoy your day with exclusive meal options",
+        "image": "Assets/lunch(1).jpg",
+        "mealtype_id": 2
+    },
+    {
+        "name": "Dinner",
+        "content": "Dinner is not just a meal, it's an experience",
+        "image": "Assets/dinner(1).jpg",
+        "mealtype_id": 3
+    },
+    {
+        "name": "Snacks",
+        "content": "Enjoy the good taste, Marvel at the crunch",
+        "image": "Assets/sancks(1).webp",
+        "mealtype_id": 4
+    },
+    {
+        "name": "Drinks",
+        "content": "Chill vibes only",
+        "image": "Assets/bever.jpg",
+        "mealtype_id": 5
+    },
+    {
+        "name": "NightLife",
+        "content": "Discover! Sweet in every theme",
+        "image": "Assets/desserts(1).jpg",
+        "mealtype_id": 6
+    }
+]

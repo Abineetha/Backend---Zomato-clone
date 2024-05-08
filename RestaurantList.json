@@ -1,0 +1,423 @@
+[
+  {
+    "name": "Domino's",
+    "city": "coimbatore",
+    "location_id": 3,
+    "city_id": 3,
+    "locality": "SaiBaba colony",
+    "thumb": [
+      "Assets/breakfast(1).avif",
+      "Assets/dinner(1).jpg",
+      "Assets/bever.jpg",
+      "Assets/lunch(1).jpg"
+    ],
+    "aggregate_rating": 4.2,
+    "rating_text": "VeryGood",
+    "min_price": 666,
+    "contact_number": 919453524651,
+    "cuisine": [
+      {
+        "id": 1,
+        "name": "NorthIndian"
+      },
+      {
+        "id": 4,
+        "name": "FastFood"
+      }
+    ],
+    "image": "Assets/Dominos.avif",
+    "mealtype_id": 1
+  },
+
+  {
+    "name": "Saravana Bhavan",
+    "city": "Coimbatore",
+    "location_id": 3,
+    "city_id": 3,
+    "locality": "Saravanampatti",
+    "thumb": [
+      "Assets/breakfast(1).avif",
+      "Assets/dinner(1).jpg",
+      "Assets/bever.jpg",
+      "Assets/lunch(1).jpg"
+    ],
+    "aggregate_rating": 4.2,
+    "rating_text": "Very Good",
+    "min_price": 666,
+    "contact_number": 919453524651,
+    "cuisine": [
+      {
+        "id": 1,
+        "name": "NorthIndian"
+      },
+      {
+        "id": 4,
+        "name": "FastFood"
+      }
+    ],
+    "image": "Assets/breakfast(1).avif",
+    "mealtype_id": 2
+  },
+
+  {
+    "name": "RHR",
+    "city": "Coimbatore",
+    "location_id": 3,
+    "city_id": 3,
+    "locality": "Hopes",
+    "thumb": [
+      "Assets/breakfast(1).avif",
+      "Assets/dinner(1).jpg",
+      "Assets/bever.jpg",
+      "Assets/lunch(1).jpg"
+    ],
+    "aggregate_rating": 3.0,
+    "rating_text": "Very Good",
+    "min_price": 888,
+    "contact_number": 919453524651,
+    "cuisine": [
+      {
+        "id": 2,
+        "name": "SouthIndian"
+      },
+      {
+        "id": 4,
+        "name": "FastFood"
+      }
+    ],
+    "image": "Assets/dinner(1).jpg",
+    "mealtype_id": 3
+  },
+
+  {
+    "name": "KFC",
+    "city": "Chennai",
+    "location_id": 1,
+    "city_id": 1,
+    "locality": "Sholinganallur",
+    "thumb": [
+      "Assets/breakfast(1).avif",
+      "Assets/dinner(1).jpg",
+      "Assets/bever.jpg",
+      "Assets/lunch(1).jpg"
+    ],
+    "aggregate_rating": 4.5,
+    "rating_text": "Excellent",
+    "min_price": 333,
+    "contact_number": 919453524651,
+    "cuisine": [
+      {
+        "id": 2,
+        "name": "SouthIndian"
+      },
+      {
+        "id": 4,
+        "name": "FastFood"
+      }
+    ],
+    "image": "Assets/breakfast(1).avif",
+    "mealtype_id": 1
+  },
+
+  {
+    "name": "A2B",
+    "city": "Chennai",
+    "location_id": 1,
+    "city_id": 1,
+    "locality": "Besan Nagar",
+    "thumb": [
+      "Assets/breakfast(1).avif",
+      "Assets/dinner(1).jpg",
+      "Assets/bever.jpg",
+      "Assets/sancks(1).webp",
+      "Assets/lunch(1).jpg"
+    ],
+    "aggregate_rating": 4.5,
+    "rating_text": "Excellent",
+    "min_price": 333,
+    "contact_number": 919453524651,
+    "cuisine": [
+      {
+        "id": 2,
+        "name": "SouthIndian"
+      },
+      {
+        "id": 4,
+        "name": "NorthIndian"
+      }
+    ],
+    "image":"Assets/sancks(1).webp",
+    "mealtype_id": 4
+  },
+
+  {
+    "name": "BurgerKing",
+    "city": "Delhi",
+    "location_id": 5,
+    "city_id": 5,
+    "locality": "Janpat",
+    "thumb": [
+      "Assets/breakfast(1).avif",
+      "Assets/dinner(1).jpg",
+      "Assets/bever.jpg",
+      "Assets/lunch(1).jpg"
+    ],
+    "aggregate_rating": 4.5,
+    "rating_text": "Excellent",
+    "min_price": 999,
+    "contact_number": 919453524651,
+    "cuisine": [
+      {
+        "id": 2,
+        "name": "SouthIndian"
+      },
+      {
+        "id": 5,
+        "name": "Chinese"
+      }
+    ],
+    "image": "Assets/breakfast(1).avif",
+    "mealtype_id": 1
+  },
+
+  {
+    "name": "BabaKaDhaba",
+    "city": "Delhi",
+    "location_id": 5,
+    "city_id": 5,
+    "locality": "AnandVihar",
+    "thumb": [
+      "Assets/breakfast(1).avif",
+      "Assets/dinner(1).jpg",
+      "Assets/bever.jpg",
+      "Assets/lunch(1).jpg"
+    ],
+    "aggregate_rating": 3.5,
+    "rating_text": "Excellent",
+    "min_price": 599,
+    "contact_number": 919453524651,
+    "cuisine": [
+      {
+        "id": 2,
+        "name": "SouthIndian"
+      },
+      {
+        "id": 4,
+        "name": "FastFood"
+      }
+    ],
+    "image": "Assets/breakfast(1).avif",
+    "mealtype_id": 2
+  },
+
+  {
+    "name": "Arya Bhavan",
+    "city": "Salem",
+    "location_id": 2,
+    "city_id": 2,
+    "locality": "Ammapet",
+    "thumb": [
+      "Assets/breakfast(1).avif",
+      "Assets/dinner(1).jpg",
+      "Assets/bever.jpg",
+      "Assets/lunch(1).jpg"
+    ],
+    "aggregate_rating": 4.5,
+    "rating_text": "Excellent",
+    "min_price": 1000,
+    "contact_number": 919453524651,
+    "cuisine": [
+      {
+        "id": 2,
+        "name": "SouthIndian"
+      },
+      {
+        "id": 4,
+        "name": "FastFood"
+      }
+    ],
+    "image": "Assets/bever.jpg",
+    "mealtype_id": 5
+  },
+
+  {
+    "name": "RR Briyani",
+    "city": "Salem",
+    "location_id": 2,
+    "city_id": 2,
+    "locality": "Attur",
+    "thumb": [
+      "Assets/breakfast(1).avif",
+      "Assets/dinner(1).jpg",
+      "Assets/bever.jpg",
+      "Assets/lunch(1).jpg"
+    ],
+    "aggregate_rating": 4.5,
+    "rating_text": "Excellent",
+    "min_price": 799,
+    "contact_number": 919453524651,
+    "cuisine": [
+      {
+        "id": 2,
+        "name": "NorthIndian"
+      },
+      {
+        "id": 4,
+        "name": "FastFood"
+      }
+    ],
+    "image": "Assets/lunch(1).jpg",
+    "mealtype_id": 2
+  },
+
+  {
+    "name": "Amman Mess",
+    "city": "Erode",
+    "location_id": 4,
+    "city_id": 4,
+    "locality": "Gobichettipalayam",
+    "thumb": [
+      "Assets/breakfast(1).avif",
+      "Assets/dinner(1).jpg",
+      "Assets/bever.jpg",
+      "Assets/lunch(1).jpg"
+    ],
+    "aggregate_rating": 3.0,
+    "rating_text": "Good taste",
+    "min_price": 444,
+    "contact_number": 919453524651,
+    "cuisine": [
+      {
+        "id": 2,
+        "name": "SothIndian"
+      },
+      {
+        "id": 4,
+        "name": "NorthIndian"
+      }
+    ],
+    "image": "Assets/dinner(1).jpg",
+    "mealtype_id": 3
+  },
+
+  {
+    "name": "Fruit Bae",
+    "city": "Erode",
+    "location_id": 4,
+    "city_id": 4,
+    "locality": "Pallipalayam",
+    "thumb": [
+      "Assets/breakfast(1).avif",
+      "Assets/dinner(1).jpg",
+      "Assets/bever.jpg",
+      "Assets/lunch(1).jpg"
+    ],
+    "aggregate_rating": 4.5,
+    "rating_text": "Excellent",
+    "min_price": 2000,
+    "contact_number": 919453524651,
+    "cuisine": [
+      {
+        "id": 2,
+        "name": "Italian"
+      },
+      {
+        "id": 4,
+        "name": "Chinese"
+      }
+    ],
+    "image": "Assets/desserts(1).jpg",
+    "mealtype_id": 6
+  },
+
+  {
+    "name": "Ibacco",
+    "city": "Tanjavur",
+    "location_id": 6,
+    "city_id": 6,
+    "locality": "Sirinivasapuram",
+    "thumb": [
+      "Assets/breakfast(1).avif",
+      "Assets/dinner(1).jpg",
+      "Assets/bever.jpg",
+      "Assets/lunch(1).jpg"
+    ],
+    "aggregate_rating": 4.5,
+    "rating_text": "Excellent",
+    "min_price": 2500,
+    "contact_number": 919453524651,
+    "cuisine": [
+      {
+        "id": 2,
+        "name": "Italian"
+      },
+      {
+        "id": 4,
+        "name": "Chinese"
+      }
+    ],
+    "image": "Assets/desserts(1).jpg",
+    "mealtype_id": 5
+  },
+
+  {
+    "name": "Liquids",
+    "city": "Nammakal",
+    "location_id": 7,
+    "city_id": 7,
+    "locality": "Nallipalayam",
+    "thumb": [
+      "Assets/breakfast(1).avif",
+      "Assets/dinner(1).jpg",
+      "Assets/bever.jpg",
+      "Assets/lunch(1).jpg"
+    ],
+    "aggregate_rating": 4.5,
+    "rating_text": "Excellent",
+    "min_price": 1700,
+    "contact_number": 919453524651,
+    "cuisine": [
+      {
+        "id": 2,
+        "name": "Italian"
+      },
+      {
+        "id": 4,
+        "name": "Chinese"
+      }
+    ],
+    "image": "Assets/bever.jpg",
+    "mealtype_id": 6
+  },
+
+  {
+    "name": "Subway",
+    "city": "Nammakal",
+    "location_id": 7,
+    "city_id": 7,
+    "locality": "Paramathi velur",
+    "thumb": [
+      "Assets/breakfast(1).avif",
+      "Assets/dinner(1).jpg",
+      "Assets/bever.jpg",
+      "Assets/sancks(1).webp",
+      "Assets/lunch(1).jpg"
+    ],
+    "aggregate_rating": 4.5,
+    "rating_text": "Excellent",
+    "min_price": 1700,
+    "contact_number": 919453524651,
+    "cuisine": [
+      {
+        "id": 2,
+        "name": "FastFood"
+      },
+      {
+        "id": 4,
+        "name": "Chinese"
+      }
+    ],
+    "image": "Assets/sancks(1).webp",
+    "mealtype_id": 4
+  }
+]
