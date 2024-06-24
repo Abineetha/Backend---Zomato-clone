@@ -1,11 +1,12 @@
 //server creation 
+require('dotenv').config();
 var express= require("express");
 var app = express();
 var port=8900;
 const cors=require("cors")
 
 var mongoose= require("mongoose");
-var url = "mongodb+srv://abinithamuthuraj:MongoDBatlas@cluster0.jxxelc4.mongodb.net/";
+const url = process.env.MONGODB_URI;
 app.use(cors())
 const router = require("./app");
 app.use(express.json())
