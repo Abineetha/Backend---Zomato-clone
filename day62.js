@@ -2,7 +2,7 @@
 require('dotenv').config();
 var express= require("express");
 var app = express();
-var port=8900;
+var port=10000;
 const cors=require("cors")
 
 var mongoose= require("mongoose");
