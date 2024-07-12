@@ -12,7 +12,7 @@ var router = require("./app.js");
 app.use(express.json());
 app.use("/",router);
 
-mongoose.connect("mongodb+srv://abinithamuthuraj:MongoDBatlas@cluster0.jxxelc4.mongodb.net/").then(success=>{
+mongoose.connect("mongodb+srv://abinithamuthuraj:MongoDBatlas@cluster0.jxxelc4.mongodb.net/",{useNewUrlParser: true}).then(success=>{
     console.log("Database connected");
     app.listen(port,()=>{
         console.log("server connected successfully");
