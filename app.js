@@ -1,12 +1,12 @@
 //router file
-var express=require("express");
+var express = require("express");
 var router= express.Router();
 
 var rests= require("./controller/Rest");
 var locs = require("./controller/Loc");
 var meals = require("./controller/Meal");
 var users = require("./controller/UserController");
-var menus = require("./controller/Menu")
+var menus = require("./controller/Menu");
 
 router.get("/getAllRestaurants",rests.findByRest);
 
